@@ -21,7 +21,7 @@ python simplification.py --i data/ankylosaurus.obj --v 1000 --optim
 A simplified mesh will be output in `data/output/`.
 
 ### Parameters
-- `-i`: Input file name (Supported format: *.stl, *.obj)
+- `-i`: Input file name (Supported formats: *.stl, *.obj)
 - `--v`: Target vertex number
 - `--optim`: Valence aware simplification
 
